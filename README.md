@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/dharma0504/Health-Vault/blob/main/hv.png" alt="HealthVault Banner" width="100%"/>
+</p>
+
+
 # EZ_Search – AI Web Search Agent for Interview Question Mining
 
 EZ_Search is an AI-powered system that automates the process of collecting, curating, and presenting technical interview questions tailored to specific companies and job roles. It combines web scraping, structured workflows, and large language models (LLMs) to help job seekers and educators access high-quality question sets on demand.
