@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/dharma0504/Health-Vault/blob/main/hv.png" alt="HealthVault Banner" width="100%"/>
+  <img src="https://github.com/dharma0504/EZ_Search/blob/main/EZ.png" alt="HealthVault Banner" width="100%"/>
 </p>
 
 
