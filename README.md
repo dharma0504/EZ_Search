@@ -51,7 +51,7 @@ EZ_Search is an AI-powered system that automates the process of collecting, cura
 1. **Clone the repo**
 
 
-git clone https://github.com/your-username/ez_search.git
+git clone https://github.com/dharma0504/EZ_Search.git
 cd ez_search
 
 2. Create a virtual environment and install dependencies
